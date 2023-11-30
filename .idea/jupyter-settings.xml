@@ -12,5 +12,20 @@
         </JupyterConnectionParameters>
       </list>
     </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/Numpy-and-Pandas.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="urlString" value="http://154.12.19.8:8888" />
+              <authParams2>
+                <map />
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
